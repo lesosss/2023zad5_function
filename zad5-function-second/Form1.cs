@@ -43,6 +43,6 @@ namespace zad5_function_second
                 }
             }
 
-        }
+        }//проверено
     }
 }
